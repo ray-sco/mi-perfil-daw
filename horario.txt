@@ -1,0 +1,23 @@
+HORARIO DE CLASES
+
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| Hora        | Lunes                        | Martes                       | Miércoles                    | Jueves                       | Viernes                      |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 8:00-9:00   | PROGR                        | SIINF                        | BADAT                        | LMSGI                        | PROGR                        |
+|             | (Ángel Cardiel Ferrero)      | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   | (Secundino González Cubo)    | (Ángel Cardiel Ferrero)      |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 9:00-10:00  | PROGR                        | SIINF                        | BADAT                        | PROGR                        | PROGR                        |
+|             | (Ángel Cardiel Ferrero)      | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   | (Ángel Cardiel Ferrero)      | (Ángel Cardiel Ferrero)      |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 10:00-11:00 | LMSGI                        | ENDES                        | BADAT                        | PROGR                        | ENDES                        |
+|             | (Secundino González Cubo)    | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   | (Ángel Cardiel Ferrero)      | (Lurdes Caleya Ortiz)        |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 11:30-12:30 | SIINF                        | BADAT                        | CONVALIDADO                  | PROGR                        | ENDES                        |
+|             | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   |                              | (Ángel Cardiel Ferrero)      | (Lurdes Caleya Ortiz)        |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 12:30-13:30 | SIINF                        | BADAT                        | LMSGI                        | PROGR                        | CONVALIDADO                  |
+|             | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   | (Secundino González Cubo)    | (Ángel Cardiel Ferrero)      |                              |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
+| 13:30-14:30 | SIINF                        | BADAT                        | DASPGS                       | CONVALIDADO                  | CONVALIDADO                  |
+|             | (Lurdes Caleya Ortiz)        | (Víctor González Amarillo)   | (Lurdes Caleya Ortiz)        |                              |                              |
++-------------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
